@@ -5,7 +5,6 @@ excerpt_separator:  <!--more-->
 ---
 
 asdasd  lombok 의 커스텀 builder 사용 시  이슈
-
 ```java
 package com.payco.shopping.api.product.response;
 
